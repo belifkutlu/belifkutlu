@@ -37,10 +37,6 @@
 &nbsp;
 \
 &nbsp;
-\
-&nbsp;
-\
-&nbsp;
 
  
  ### ⚙️ &nbsp;GitHub Analytics
